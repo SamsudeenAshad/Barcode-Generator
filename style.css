@@ -1,0 +1,16 @@
+#btn_download {
+    display: none; /* Initially hide the button */
+}
+
+.page{
+    justify-content: center;
+    background-color:rgba(0, 51, 255, 0.075);
+    border-radius: 50px;
+    max-width: 1000px;
+    
+    
+}
+body{
+    align-items: center;
+    align-content: center;
+}
